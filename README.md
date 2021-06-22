@@ -1,5 +1,5 @@
 # DATABASE
-This repository collects dataset that is invaluable to research.
+This repository collects dataset that is invaluable to research, with a special focus on social computing, complex systems and medical informatics.
 
 ### Hong Kong Public Opinion
 https://www.pori.hk/pop-poll.html?lang=en#
